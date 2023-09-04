@@ -163,15 +163,14 @@
 
             <v-col cols="12" sm="6" md="4" lg="3">
               <v-card flat class="border">
-                <v-img class="align-end text-white" src="https://images.pexels.com/photos/2748019/pexels-photo-2748019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-                  <v-card-title>Top 10 places in Italy</v-card-title>
+                <v-img class="align-end text-white" src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&w=1000&q=80">
+                  <v-card-title>Best travel tips</v-card-title>
                 </v-img>
                 
-                <v-card-subtitle class="pt-3">Venice</v-card-subtitle>
+                <v-card-subtitle class="pt-3">Travels</v-card-subtitle>
 
-                <v-card-text>
-                  <div>City of Venice,</div>
-                  <div>one of the most visited places in the world</div>
+                <v-card-text>       
+                  <div>The most visited destinations in the world</div>
                 </v-card-text>
 
                 <v-card-actions>
@@ -183,15 +182,15 @@
 
             <v-col cols="12" sm="6" md="4" lg="3">
               <v-card flat class="border">
-                <v-img class="align-end text-white" src="https://images.pexels.com/photos/2748019/pexels-photo-2748019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-                  <v-card-title>Top 10 places in Italy</v-card-title>
+                <v-img class="align-end text-white" src="https://www.vaipradisney.com/blog/wp-content/uploads/2021/06/disney-aniversario-50-anos-capa.jpg">
+                  <v-card-title>Top 10 best Disney attractions</v-card-title>
                 </v-img>
                 
-                <v-card-subtitle class="pt-3">Venice</v-card-subtitle>
+                <v-card-subtitle class="pt-3">Disney Park</v-card-subtitle>
 
                 <v-card-text>
-                  <div>City of Venice,</div>
-                  <div>one of the most visited places in the world</div>
+                  <div></div>
+                  <div>One of the most visited places in the world and with the best attractions</div>
                 </v-card-text>
 
                 <v-card-actions>
